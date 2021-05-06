@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## technologies
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="70px"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="80px"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="80px"/>
 
 ## GitHub stats
 
